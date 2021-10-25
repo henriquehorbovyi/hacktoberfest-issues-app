@@ -1,10 +1,12 @@
+<img src='app/src/main/ic_launcher-playstore.png' height='120'>
+
 # Hacktoberfest Issues
 
-**Hackberfest Issues App** lists the top recent issues with the `hacktoberfest` label on it.
+**Hackberfest Issues App** lists the top recent issues with the `hacktoberfest` label on it, using [Github Search API](https://docs.github.com/en/rest/reference/search#search-issues-and-pull-requests). 
 
 ### Preview
 
-<img src='screenshots/01.png' height="200px">
+<img src='screenshots/01.png' height="500px">
 
 ### Libraries
 
