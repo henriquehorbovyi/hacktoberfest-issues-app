@@ -1,10 +1,10 @@
 # Hacktoberfest Issues
 
-**Hackberfest Issues App** lists the top recent issues with the  `hacktoberfest`  label on it.
+**Hackberfest Issues App** lists the top recent issues with the `hacktoberfest` label on it.
 
 ### Preview
 
-<img src=''>...
+<img src='screenshots/01.png' height="200px">
 
 ### Libraries
 
